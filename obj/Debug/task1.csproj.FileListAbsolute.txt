@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\obj\Debug\task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UDPclient.resources
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UDPserver.resources
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\Personal PJ\crypto\CRTPP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
